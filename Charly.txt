@@ -1,2 +1,3 @@
 hello world!
 What's up?
+I'm testing the branch functionality of GitHub
